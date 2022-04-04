@@ -1,6 +1,1 @@
 # gameoflife
-#oihdfhlgkjsfhdgkjhdfkjhgdlksjfhgkdjfhgkljdfhgljkdhfgksjhdfgjksdh
-#dfgjkdhfgkjdfk
-#fjkghdfkjghd
-sdfjhgfhdsjfkhgsldkdhg
-jfkhgdflkjghjdlsfjghflkf
