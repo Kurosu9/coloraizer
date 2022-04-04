@@ -1,6 +1,6 @@
 # gameoflife
-oihdfhlgkjsfhdgkjhdfkjhgdlksjfhgkdjfhgkljdfhgljkdhfgksjhdfgjksdh
-dfgjkdhfgkjdfk
-fjkghdfkjghd
+#oihdfhlgkjsfhdgkjhdfkjhgdlksjfhgkdjfhgkljdfhgljkdhfgksjhdfgjksdh
+#dfgjkdhfgkjdfk
+#fjkghdfkjghd
 sdfjhgfhdsjfkhgsldkdhg
 jfkhgdflkjghjdlsfjghflkf
