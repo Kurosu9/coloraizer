@@ -1,3 +1,1 @@
 # gameoflife
-sdjfkdsj
-dskfjdsjkf
