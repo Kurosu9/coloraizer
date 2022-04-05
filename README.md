@@ -3,8 +3,10 @@
 ***
 
 ## ___Rules___
-> #### _1. The colors change randomly, and the main thing is for you to have time to click on your color (if you play with friends, agree with each other about your variation of the rules of the game)._
-> #### _2. Find your favorite color (or compete with your friends to see who can find it the fastest)._
-> #### _3. You can resize the game screen if you want to make it easier to find your color._
+'''
+    #### _1. The colors change randomly, and the main thing is for you to have time to click on your color (if you play with friends, agree with each other about your variation of the rules of the game)._
+    #### _2. Find your favorite color (or compete with your friends to see who can find it the fastest)._
+    #### _3. You can resize the game screen if you want to make it easier to find your color._
+'''
 ***
 ## ___Game settings in code___
