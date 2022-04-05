@@ -96,7 +96,7 @@ class Field():
         for i in range(1, self.n - 1):
             for j in range(1, self.m - 1):
                 if (self.a[i][j] == 1):
-                    '#you can change style to show in the field here'
+                    'You can change style to show in the field here'
                     color = choice(red_brown_style + black_white_style +
                                    orange_yellow_style + green_style +
                                    blue_style + purple_pink_style)
