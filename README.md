@@ -24,7 +24,7 @@
   <img src = https://user-images.githubusercontent.com/99824788/161815350-91ae70fe-7894-487d-bcad-146f56812f79.png width="500" height="350">
 </p>
 
-### Styles
+### STYLES
 <p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161822227-6e5308f1-0b9c-4bf6-a704-dd92f7e9d8c5.jpg width="300" heght="300">
   <img src = https://user-images.githubusercontent.com/99824788/161823117-20c6c722-f6a7-4b7f-8b9f-d7e4bb5e195f.jpg width="300" heght="300">
