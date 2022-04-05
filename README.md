@@ -27,19 +27,14 @@
 ### Styles
 <p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161822227-6e5308f1-0b9c-4bf6-a704-dd92f7e9d8c5.jpg width="300" heght="300">
-</p>
-<p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161823117-20c6c722-f6a7-4b7f-8b9f-d7e4bb5e195f.jpg width="300" heght="300">
-</p>
-<p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161823148-d3478c32-d35f-40a6-bd94-e961a5cb4173.jpg width="300" heght="300">
-</p>
-<p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161823180-71ec8db2-087f-4fd6-9023-0cf7d2bdefaf.jpg width="300" heght="300">
-</p>
-<p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161823199-9f64de47-1ec6-4dbc-a28b-cde964c2bb22.jpg width="300" heght="300">
-</p>
-<p align="center">
   <img src = https://user-images.githubusercontent.com/99824788/161823217-78606b2f-bf0f-4d62-88f0-27465552660b.jpg width="300" heght="300">
+</p>
+
+### COLORS
+<p align="center">
+  <img src = https://user-images.githubusercontent.com/99824788/161823984-edacbd57-c10c-4078-9f06-5818380e5d7b.jpg>
 </p>
