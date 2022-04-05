@@ -1,4 +1,4 @@
-# __Name of the game__
+# ___COLORAIZER___
 #### _This is a simple game that I came up with while watching a video on YouTube about color challenge. Your goal in this game is to try and find your favorite color from other colors. Screen colors will change quickly. Please note that some colors may be similar to others. I apologize for not adding a click that shows what color you have selected, in the future I hope I can add this. If anything, you can change the screen size of the game itself, and not the size of the color border. This game can be played by one or more people. It will be more fun to play with friends.  For example: to come up with something there on desire and so on. Use your imagination._
 
 <p align="center">
